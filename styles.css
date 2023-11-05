@@ -1,0 +1,16 @@
+h1 {
+    width: 200px;
+    margin: 20px auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+.container {
+    border: 3px red double;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+}
